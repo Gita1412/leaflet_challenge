@@ -1,8 +1,9 @@
 # leaflet_challenge
 
 The instructions for this activity are broken into two parts:
-Part 1: Create the Earthquake Visualization
-Part 2: Gather and Plot More Data (Optional with no extra points earning)
+
+  Part 1: Create the Earthquake Visualization
+  Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 # Part 1
 1. Get the dataset. To do so, follow these steps: The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed Links to an external site. page and choose a dataset to visualize.
